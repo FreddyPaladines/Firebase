@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835155915687",
+    "project_id": "techmall-410119",
+    "storage_bucket": "techmall-410119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835155915687:android:144c9d6b8613f5003bfc82",
+        "android_client_info": {
+          "package_name": "com.example.fluttertiff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZL2c7Nt1ItikTZMdkBTC1rWZY1X7fPDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
